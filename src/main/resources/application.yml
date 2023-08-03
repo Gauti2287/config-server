@@ -1,3 +1,4 @@
+
 spring:
   application:
     name: config-server
@@ -5,6 +6,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/indiagator/code22-config-server-properties.git
+          uri: https://github.com/gauti2287/code22-config-server-properties.git
 server:
-  port: 8071
+  port: 8071    
